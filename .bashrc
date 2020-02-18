@@ -1,6 +1,12 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
+#######################################################################################################
+# The bove were notes from the orriginal, I mainly made updates / Changes below to the aliais entries #
+# Zack Pelka                                                                                          #
+#    version 1.0 2/18/2020                                                                            #
+#######################################################################################################
+
 
 # If not running interactively, don't do anything
 case $- in
@@ -87,7 +93,12 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-# some more ls aliases
+#####################################
+# Some more altered usefull aliases #
+# Zack Pelka                        #
+# 02/18/2020                        #
+#####################################
+
 #alias ll='ls -l'
 alias ll='ls -Al'
 alias l='ls -CF'
