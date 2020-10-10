@@ -2,7 +2,7 @@
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
 #######################################################################################################
-# The bove were notes from the orriginal, I mainly made updates / Changes below to the aliais entries #
+# The above were notes from the orriginal, I mainly made updates / Changes below to the aliais entries #
 # Zack Pelka                                                                                          #
 #    version 1.0 2/18/2020                                                                            #
 #######################################################################################################
