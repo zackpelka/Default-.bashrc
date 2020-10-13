@@ -1,4 +1,3 @@
-# Default .bashrc
 My Current ~/.bashrc file and setttings I use.
 
 ###############################################
