@@ -100,9 +100,10 @@ fi
 #####################################
 
 #alias ll='ls -l'
-alias ll='ls -Al'
+alias ll='ls -Alh'
 alias l='ls -CF'
 alias ..='cd ..'
+alias ...=cd ../..
 alias apt-get='sudo apt-get'
 alias vi=vim
 alias vvi='sudo vim'
